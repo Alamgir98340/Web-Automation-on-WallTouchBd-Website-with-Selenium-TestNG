@@ -4,7 +4,7 @@
 
 https://github.com/user-attachments/assets/cfd9d402-d193-40c3-9ca2-84949b3c7f60
 
-## Scenario
+## Scenario:
 1. Visit the site: https://www.walltouchbd.com/
 2. Do log-in with valid credential
 4. Type "toys." in search bar
@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/cfd9d402-d193-40c3-9ca2-84949b3c7f60
 6. Select the first search result
 7. Validate the search resut data in product details page
 
-## Technology and Tool Used
+## Technology and Tool Used:
 - Selenium Webdriver
 - TestNG
 - Java
