@@ -1,4 +1,4 @@
-# Web-Automation-on-WallTouchBd-Website-with-Selenium-TestNG
+# Web-Automations-on-WallTouchBd-Website-with-Selenium-TestNG
 
 ## Video Output:
 
