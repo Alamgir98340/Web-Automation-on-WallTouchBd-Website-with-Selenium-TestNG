@@ -1,4 +1,4 @@
-# Web-Automations-on-WallTouchBd-Website-with-Selenium-TestNG
+# Web-Automation-on-WallTouchBd-Website-with-Selenium-TestNG
 
 ## Video Output:
 
@@ -17,7 +17,7 @@ https://github.com/user-attachments/assets/cfd9d402-d193-40c3-9ca2-84949b3c7f60
 - TestNG
 - Java
 - Gradle
-- Intellij Idea 
+- IntelliJ IDEA 
 - Allure
 
 ## How to run this Project:
